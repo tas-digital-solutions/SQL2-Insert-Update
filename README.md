@@ -6,7 +6,7 @@ You need to demonstrate the following using python and git. (SUGGESTIONL Commit 
 
 **CREATE**
 
-create a new table to reflect the tables in the diagram below:
+create new tables to reflect the tables in the diagram below:
 
 ![alt text](https://github.com/tas-digital-solutions/SQL2-Insert-Update/blob/master/images/db.PNG)
 
