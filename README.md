@@ -8,7 +8,7 @@ You need to demonstrate the following using python and git. (SUGGESTIONL Commit 
 
 create a new table to reflect the tables in the diagram below:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/tas-digital-solutions/SQL2-Insert-Update/blob/master/images/db.PNG)
 
 save your file as create_01.py
 
